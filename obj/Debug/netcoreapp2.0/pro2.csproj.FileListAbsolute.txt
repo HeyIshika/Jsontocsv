@@ -1,0 +1,20 @@
+C:\Users\Administrator\pro2\bin\Debug\netcoreapp2.0\pro2.deps.json
+C:\Users\Administrator\pro2\bin\Debug\netcoreapp2.0\pro2.runtimeconfig.json
+C:\Users\Administrator\pro2\bin\Debug\netcoreapp2.0\pro2.runtimeconfig.dev.json
+C:\Users\Administrator\pro2\bin\Debug\netcoreapp2.0\pro2.dll
+C:\Users\Administrator\pro2\bin\Debug\netcoreapp2.0\pro2.pdb
+C:\Users\Administrator\pro2\obj\Debug\netcoreapp2.0\pro2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\pro2\obj\Debug\netcoreapp2.0\pro2.AssemblyInfoInputs.cache
+C:\Users\Administrator\pro2\obj\Debug\netcoreapp2.0\pro2.AssemblyInfo.cs
+C:\Users\Administrator\pro2\obj\Debug\netcoreapp2.0\pro2.dll
+C:\Users\Administrator\pro2\obj\Debug\netcoreapp2.0\pro2.pdb
+C:\Users\Administrator\Desktop\Insight\Insight-JSON to CSV\bin\Debug\netcoreapp2.0\pro2.deps.json
+C:\Users\Administrator\Desktop\Insight\Insight-JSON to CSV\bin\Debug\netcoreapp2.0\pro2.runtimeconfig.json
+C:\Users\Administrator\Desktop\Insight\Insight-JSON to CSV\bin\Debug\netcoreapp2.0\pro2.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Insight\Insight-JSON to CSV\bin\Debug\netcoreapp2.0\pro2.dll
+C:\Users\Administrator\Desktop\Insight\Insight-JSON to CSV\bin\Debug\netcoreapp2.0\pro2.pdb
+C:\Users\Administrator\Desktop\Insight\Insight-JSON to CSV\obj\Debug\netcoreapp2.0\pro2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Insight\Insight-JSON to CSV\obj\Debug\netcoreapp2.0\pro2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Insight\Insight-JSON to CSV\obj\Debug\netcoreapp2.0\pro2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Insight\Insight-JSON to CSV\obj\Debug\netcoreapp2.0\pro2.dll
+C:\Users\Administrator\Desktop\Insight\Insight-JSON to CSV\obj\Debug\netcoreapp2.0\pro2.pdb
